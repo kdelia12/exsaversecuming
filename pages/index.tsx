@@ -52,7 +52,7 @@ const IndexPage = () => (
           </Link>
         </li>
         <li>
-          <Link href="https://twitter.com/exaverse">
+          <Link href="https://twitter.com/exsaverse">
             <a className="flex items-center justify-center w-10 h-10 rounded-full bg-gray-50 transition ease-in-out duration-500 hover:bg-red-500 hover:text-white hover:shadow-lg">
               <svg
                 className="w-6 h-6"
