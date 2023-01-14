@@ -2,7 +2,7 @@ import Link from "next/link";
 import Layout from "../components/Layout";
 
 const IndexPage = () => (
-  <Layout title="exaverse.id is cuming soon">
+  <Layout title="exsaverse.id is cuming soon">
     <img
       src="/images/xera.svg"
       alt=" "
